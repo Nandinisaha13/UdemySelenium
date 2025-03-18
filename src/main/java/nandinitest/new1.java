@@ -12,4 +12,9 @@ public class new1 {
     {
         System.out.println("pello");
     }
+    @Test
+    public void selenium()
+    {
+        System.out.println("checking out the path to develop is syncing or not");
+    }
 }
